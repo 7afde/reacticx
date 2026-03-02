@@ -45,9 +45,9 @@ Join our [Discord community](https://discord.gg/wCpFkYpyHA) to suggest component
 
 <br>
 
-## 🤖 AI Agent Skill (Claude Code & GitHub Copilot)
+## 🤖 AI Agent Skill
 
-Install the Reacticx skill for Claude Code and GitHub Copilot agents:
+Install the Reacticx skill for AI agents:
 
 ```bash
 bunx skills add https://github.com/rit3zh/reacticx --using-reacticx
